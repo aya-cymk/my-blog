@@ -1,0 +1,76 @@
+body{
+    color:#40514E;
+    background-color:#eaf3e4;
+    text-align: center;
+    margin: 0;
+    
+}
+
+hr{
+    background-color: black;
+    border-style: none;
+    height:2px;
+    
+}
+
+
+
+
+.ayasblog{
+     color:#40514E;
+     font-family: 'Lobster', cursive;
+     font-size: 20px;
+}
+
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    background-color:rgb(193, 227, 238);
+}
+
+
+
+
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    width: 200px
+}
+
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+    
+
+}
+
+
+.navi{
+    font-family: 'Kanit';
+    font-size: 19px;
+    word-spacing: 100px;
+    text-decoration: none;
+}
+
+.contact{
+  background:transparent
+}
+
+.quote-top{
+    position:relative;
+    width:80px;
+    left:-200px;
+    bottom:-27px;
+
+}
+
+.quote-bottom{
+    position:relative;
+    width:80px;
+    left:200px;
+    bottom:-88px
+   
+}
